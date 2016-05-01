@@ -1,0 +1,11 @@
+{
+    "name": "vendor/my-ci-admin",
+    "description": "Description of project MyCi_Admin.",
+    "authors": [
+        {
+            "name": "Ruth",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
