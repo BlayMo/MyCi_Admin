@@ -10,6 +10,7 @@ user:  **admin@admin.com**
 password: **password**
 
 El proyecto se publica bajo la licencia MIT.
-Tanto el framework como la plantilla en HTML5 y la libreria Ion_Auth para el acceso y cotrol de usuarios, se publican con sus respectivas licencias que figuran el las respactivas carpetas del proyecto.
+
+Tanto el framework como la plantilla en HTML5 y la libreria Ion_Auth para el acceso y cotrol de usuarios, se publican con sus respectivas licencias que figuran el las respectivas carpetas del proyecto.
 
 Agradezco cualquier comentario y/o sugerencia en  expresoweb2015@gmail.com
