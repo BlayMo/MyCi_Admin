@@ -9,6 +9,8 @@ user:  **admin@admin.com**
 
 password: **password**
 
+La estructura de la BD se encuentra en **"assets/myci_admin.sql"**.
+
 El proyecto se publica bajo la licencia MIT.
 
 Tanto el framework como la plantilla en HTML5 y la libreria Ion_Auth para el acceso y cotrol de usuarios, se publican con sus respectivas licencias que figuran el las respectivas carpetas del proyecto.
